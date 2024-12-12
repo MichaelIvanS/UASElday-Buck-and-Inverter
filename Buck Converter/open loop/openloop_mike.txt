@@ -1,0 +1,11 @@
+.param L=2m
+.param V_IN = 48
+.param f_s = 20k
+.param t_ON = 14u
+.param D = t_ON * f_s
+.param C_IN1 = 2m
+.param C_IN2 = .2u
+.param C = 44u
+.param R_G = 150
+.param R_L = 2
+
